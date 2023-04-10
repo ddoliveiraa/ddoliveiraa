@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ddoliveiraa
 - 👀 I’m interested in all types of development
-- 🌱 I’m currently learning React Native
+- 🌱 I’m currently learning PayloadCMS
 - 📫 Reach me on twitter @returnOliveira
 
 <!---
